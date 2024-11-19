@@ -15,7 +15,7 @@ import {
   import AsyncStorage from '@react-native-async-storage/async-storage';
   import { Calendar } from 'react-native-calendars';
   import CustomButton from '../../components/customButton';
-  import { Icons } from '../../assets';
+import { Icons } from '../../assets';
   
   const width = Dimensions.get('window').width;
   

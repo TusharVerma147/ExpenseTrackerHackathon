@@ -13,7 +13,7 @@ import {
 } from 'react-native';
 import React, {useEffect, useState, useRef} from 'react';
 
-import {Icons} from '../../assets';
+import { Icons } from '../../assets';
 
 const width = Dimensions.get('window').width;
 const height = Dimensions.get('window').height;
@@ -145,7 +145,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     marginVertical: 20,
     paddingVertical: 10,
-    marginHorizontal: 150,
+    marginHorizontal: 130,
   },
   enabletext: {
     fontWeight: '700',
